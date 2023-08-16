@@ -471,6 +471,7 @@
     width: 15.625rem;
     height: 100vh;
     z-index: 3;
+    position: relative;
     padding: 0.94rem 0;
     padding-top: 3rem;
   }
@@ -510,12 +511,13 @@
   }
 
   .popup-logout-box{
+    position: absolute;
    padding-left: 0.94rem;
    display: flex;
    justify-content: start;
    align-items: center;
    cursor: pointer;
-   margin-top: 15rem;
+   bottom: 4rem;
   }
 
   .popup-logout{

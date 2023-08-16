@@ -473,7 +473,6 @@
     z-index: 3;
     position: relative;
     overflow-y: auto;
-    border: 1px solid blue;
     padding: 0.94rem 0;
   
   }

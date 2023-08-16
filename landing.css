@@ -472,7 +472,6 @@
     height: 100vh;
     z-index: 3;
     position: relative;
-    overflow-y: auto;
     padding: 0.94rem 0;
   }
 

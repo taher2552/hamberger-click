@@ -474,7 +474,6 @@
     position: relative;
     overflow-y: auto;
     padding: 0.94rem 0;
-  
   }
 
   .popup-top{
@@ -511,12 +510,13 @@
   }
 
   .popup-logout-box{
+    position: absolute;
    padding-left: 0.94rem;
    display: flex;
    justify-content: start;
    align-items: center;
-   margin-top: 10rem;
    cursor: pointer;
+   bottom: 2rem;
   }
 
   .popup-logout{

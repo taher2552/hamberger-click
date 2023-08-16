@@ -485,6 +485,7 @@
     font-size: 1.2rem;
     cursor: pointer;
     padding-right: 0.94rem;
+    padding-top: 0.94rem;
   }
 
   .popup-list ul{
@@ -515,8 +516,7 @@
    justify-content: start;
    align-items: center;
    cursor: pointer;
-   bottom: 2rem;
-   background-color: green;
+   bottom: 4rem;
   }
 
   .popup-logout{

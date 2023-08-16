@@ -516,6 +516,7 @@
    align-items: center;
    cursor: pointer;
    bottom: 2rem;
+   background-color: green;
   }
 
   .popup-logout{
